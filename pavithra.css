@@ -1,0 +1,9 @@
+h5 {
+    color: brown;
+    font-size: large;
+}
+#blur {
+    font-size: 40px;
+    color: transparent;
+    text-shadow: 0 0 8px #000;
+  }
